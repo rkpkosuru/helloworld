@@ -2,7 +2,7 @@
 applications:
 - name: HelloWorld
   buildpack: java_buildpack
-  path: C:\Program Files (x86)\Jenkins\jobs\2\workspace\HelloWorld\target\hellowrold.war
+  path: C:\Program Files (x86)\Jenkins\jobs\2\workspace\HelloWorld\target\helloworld.war
   memory: 512M
   instances: 1
   random-route: true
