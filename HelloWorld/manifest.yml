@@ -1,6 +1,6 @@
 ---
 applications:
-- name: HelloWorld Version2
+- name: HelloWorldVersion2
   buildpack: java_buildpack
   path: C:\Program Files (x86)\Jenkins\jobs\2\workspace\HelloWorld\target\helloworld.war
   memory: 512M
